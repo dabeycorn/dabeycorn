@@ -4,16 +4,11 @@
 <div align="center">
 <!-- <a href="https://discord.com/users/778068011231608882" > -->
   <a href="https://egirl.ing/" >
-   <img src="https://lanyard.cnrad.dev/api/778068011231608882?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square)](https://discord.com/users/778068011231608882"  />
+   <img src="https://lanyard.cnrad.dev/api/778068011231608882?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square"  />
   </a>
 </div>
-    <div align="center">
-<!-- <img src="https://i.imgur.com/jx17oHT.gif"> -->
-      </div>
 
 <img align="center" src="https://lanyard.cnrad.dev/api/778068011231608882" alt="ABSphreak's Github Stats">
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/778068011231608882?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square)](https://discord.com/users/778068011231608882)
 
 Some stats if you want . . .
 
