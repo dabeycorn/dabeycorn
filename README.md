@@ -23,5 +23,3 @@
    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dabeycorn&theme=transparent"  />
   </a>
 </div>
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dabeycorn&theme=transparent) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dabeycorn&theme=transparent) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dabeycorn&theme=transparent&utcOffset=8) 
