@@ -4,4 +4,4 @@
 
 Some stats if you want . . .
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=dabeycorn)](https://github.com/LordDashMe/github-contribution-stats/) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=differ)](https://github.com/madushadhanushka/differ) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=simple-sqlite)](https://github.com/madushadhanushka/simple-sqlite)
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=dabeycorn)](https://github.com/LordDashMe/github-contribution-stats/)
