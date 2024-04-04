@@ -6,3 +6,5 @@ Some stats if you want . . .
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dabeycorn&theme=transparent) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dabeycorn&theme=transparent) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dabeycorn&theme=transparent&utcOffset=8) 
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,nvim)](https://github.com/Jurredr/github-widgetbox)
