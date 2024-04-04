@@ -5,4 +5,6 @@
 Some stats if you want . . .
 
 <img src="https://myreadme.vercel.app/api/embed/dabeycorn?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-<div align=”center”><img src="https://github-readme-streak-stats.herokuapp.com/?user=dabeycorn&theme=tokyonight" alt="mystreak"/></div>
+<p align=”center”>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dabeycorn&theme=tokyonight" alt="mystreak"/>
+</p>
