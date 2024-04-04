@@ -9,6 +9,9 @@
   <a href="" >
    <img src="https://lanyard.kyrie25.me/api/778068011231608882?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=squar"  />
   </a>
+  <a href="" >
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dabeycorn&theme=transparent" />
+  </a>
 </div>
 
 <p align="center">
