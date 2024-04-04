@@ -8,7 +8,6 @@
   </a>
 </div>
 
-<img align="center" src="https://lanyard.cnrad.dev/api/778068011231608882" alt="ABSphreak's Github Stats">
 
 Some stats if you want . . .
 
