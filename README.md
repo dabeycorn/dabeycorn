@@ -7,9 +7,9 @@
   <li>Gaming</li>
 </ul> 
 
-I'm on FRC team 6423 btw (Ward Melville Iron Patriots)
-I use Arch Linux btw (too lazy to upload dots)
-I use nvim btw (<a href="https://github.com/dabeycorn/nvim">dabeycorn/nvim</a>)
+<h3>I'm on FRC team 6423 btw (Ward Melville Iron Patriots)</h3>
+<h3>I use Arch Linux btw (too lazy to upload dots)</h3>
+<h3>I use nvim btw (<a href="https://github.com/dabeycorn/nvim">dabeycorn/nvim</a>)</h3>
 
 <p align="center">
 <!-- <a href="https://github.com/Jurredr/github-widgetbox" > -->
