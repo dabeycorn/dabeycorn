@@ -19,9 +19,9 @@
 
 <hr>
 
-<i>Some stats if you want lol</i>
-
 <p align="center">
+  <i>Some stats if you want lol</i>
+  <br>
   <a href="">
     <img src="https://github-readme-stats.vercel.app/api?username=dabeycorn&show_icons=true&theme=gruvbox" width="400" />
   </a>
