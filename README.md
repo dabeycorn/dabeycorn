@@ -7,7 +7,7 @@
   </a>
   <br>
 </p>
----
+<hr>
 <p align="center">
 <!-- <a href="https://discord.com/users/778068011231608882" > -->
   <a href="" >
