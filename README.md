@@ -29,8 +29,8 @@
 </p>
 <p align="center">
   <!-- <a href="https://discord.com/users/778068011231608882" > -->
-  <a href="" >
-   <img src="[![Discord Presence](https://lanyard.cnrad.dev/api/778068011231608882)](https://discord.com/users/778068011231608882)"  />
+  <a href="https://lanyard.cnrad.dev/api/778068011231608882" >
+   <img src=""  />
   </a>
 </p>
 
