@@ -1,5 +1,5 @@
 ## I'm Dasun :\
-<h3 align="center">Highschool sophomore who enjoys programming</h3>
+<h3 align="center">Highschool sophomore who enjoys programming 🌽 </h3>
 <h3>Likes:</h3>
 <ul>
   <li>Physics</li>
