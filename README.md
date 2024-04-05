@@ -3,7 +3,7 @@
 <h3>Likes:</h3>
 <ul>
   <li>Physics</li>
-  <li>Computer Hardware<li>
+  <li>Computer Hardware</li>
   <li>Gaming</li>
 </ul> 
 
