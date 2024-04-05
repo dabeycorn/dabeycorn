@@ -1,6 +1,4 @@
 ## I'm Dasun :\
-[![Discord Presence](https://lanyard.cnrad.dev/api/778068011231608882)](https://discord.com/users/778068011231608882)
-
 <h3 align="center">Highschool sophomore who enjoys programming 🌽 </h3>
 <h3>Likes:</h3>
 <ul>
