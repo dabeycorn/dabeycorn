@@ -1,4 +1,15 @@
 ## I'm Dasun :\
+<h3 align="center">Highschool sophomore who enjoys programming</h3>
+<h3>Likes:</h3>
+<ul>
+  <li>Physics</li>
+  <li>Computer Hardware<li>
+  <li>Gaming</li>
+</ul> 
+
+I'm on FRC team 6423 btw (Ward Melville Iron Patriots)
+I use Arch Linux btw (too lazy to upload dots)
+I use nvim btw (<a href="https://github.com/dabeycorn/nvim">dabeycorn/nvim</a>)
 
 <p align="center">
 <!-- <a href="https://github.com/Jurredr/github-widgetbox" > -->
