@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://capsule-render.vercel.app/">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Hullo!&desc=I'm%20Dasun&textBg=false" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=45:0088cc,100:179CDE&text=Hullo!&desc=I'm%20Dasun&textBg=false" alt="Header" />
 </a>
 </p>
 
