@@ -27,3 +27,7 @@
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=dabeycorn&theme=telegram-gradient&hide_border=true&date_format=%5BY.%5Dn.j&card_width=700&card_height=200" alt="GitHub Streak" /></a>
 </p>
+
+<p align="center">
+  <a href="https://platane.github.io/snk/"><img src="https://raw.githubusercontent.com/dabeycorn/dabeycorn/refs/heads/main/snake.svg" alt="snake" /></a>
+</p>
