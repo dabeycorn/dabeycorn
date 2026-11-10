@@ -1,6 +1,7 @@
 Hi I'm Dasun 👋
 
 I'm also:
-* a Computer Engineering student
-* experienced with python, java, c, & c++
-* interested in math, physics, robots, cars, and computers
+* ECE Undergrad at the Ohio State University
+* Expirenced in C, C++, Java, and Python
+* Interested in math, physics, robotics, cars, and low-level computing
+
